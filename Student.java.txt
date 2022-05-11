@@ -1,0 +1,6 @@
+public class Student{
+
+public stactic void main(String[] args){
+System.out.println("Hello Student");
+}
+}
